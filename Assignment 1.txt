@@ -1,0 +1,42 @@
+ 
+
+
+ 1.  Values and mathematical operators.
+
+     * = Mathematical operator
+     'hello' = values (string)
+     -87.8 = Values (integer)
+      '-'  = Mathematical operator
+      '/'  = Mathematical operator
+      '+'  = Mathematical operator
+      6    = values (integer)
+
+2. string : It is data type used for data values, made up of ordered sequences of characters.
+
+   Variable : A variable stores the information, which can be from strings to numbers.
+
+
+3.  Numbers : It stores the numeric values.Three different numerical types
+                1. Int (signed numbers)
+                2. float (floating point real values)
+                3. Complex (complex Numbers)
+
+    string : A contiguous set of characters represented in the quotation marks.
+
+    List : Lists are enclosed with the square brackets. It acn store different form of data types ( int, char, float, complex).
+
+  4. An expression is combination of values, variables, operators and operands that is interpreted to produce some other value.
+
+  5. A statement is an instruction that an python interpreter can excute and displays the result
+     whereas, expression is combination of symbols that represent a value.
+
+  6.   bacon  = 23
+ 
+  7. Both the values shows the same result ' spamspamspam '
+ 
+  8. Variable names cannot begin with a number.
+  
+  9. int(), float() and str() can be used to get the three versions.
+  
+  10. Only strings can be concatenated. we can use inverted commas.
+         'ihave eaten' + '99' + 'burritos'
